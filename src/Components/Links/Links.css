@@ -1,24 +1,22 @@
 .links{
-    width: 200px;
-    height: 150px;
     display: flex;
-    flex-direction: column;
-    justify-content: center;
+    height: 80px;
+    flex-direction: row;
+    justify-content: space-around;
     align-items: center;
-    gap: 10px;
+    /* gap: 10px; */
     margin: 10px;
-    border-radius: 12px;
+    border-radius:8px;
     background-color: #25CCF7;
     transition: .5s;
 }
 a{
+    display: block;
     text-decoration: none;
     font-size: 20px;
     color: var(--text);
     margin: 0;
     padding: 0;
-    width: 200px;
-    height: 150px;
 }
 .links:hover{
     transform: scale(1.02);

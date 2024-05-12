@@ -1,9 +1,16 @@
 .linklist{
+    max-width: 1000px;
+    margin: 20px auto;
     display: flex;
-    height: 100vh;
-    margin: 20px;
-    flex-direction: row;
+    /* height: 100vh; */
+    flex-direction: column;
     flex-wrap: wrap;
     gap: 20px;
     justify-content: space-around;
+
+}
+.banner{
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
 }
