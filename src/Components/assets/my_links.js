@@ -105,6 +105,13 @@ let my_links=[
         link:"dfkls.com",
         date:"10/03/025",
         logo:youtube
+    },
+    {
+        id:10,
+        name:"Subscriber",
+        link:"linkskiduniya.vercel.app",
+        date:"12/05/2024",
+        logo:youtube
     }
 ]
 export default my_links;
