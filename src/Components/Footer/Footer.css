@@ -1,0 +1,16 @@
+.footer{
+    height: 40vh;
+    background-color: var(--text);
+    color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.footer-links{
+    display: flex;
+    gap: 2rem;
+}
+.footer-menu{
+    color: whitesmoke;
+}

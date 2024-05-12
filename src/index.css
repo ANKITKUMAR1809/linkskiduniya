@@ -1,0 +1,8 @@
+:root{
+    --bg:white;
+    --text:#2C3A47;
+    --link:#1B9CFC;
+}
+*{
+    font-family: poppins;
+}

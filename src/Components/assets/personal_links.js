@@ -1,0 +1,27 @@
+let personal_links=[
+    {
+        id:1,
+        Name:"",
+        link:"",
+    },
+    {
+        id:1,
+        Name:"",
+        link:"",
+    },
+    {
+        id:1,
+        Name:"",
+        link:"",
+    },
+    {
+        id:1,
+        Name:"",
+        link:"",
+    },
+    {
+        id:1,
+        Name:"",
+        link:"",
+    }
+]

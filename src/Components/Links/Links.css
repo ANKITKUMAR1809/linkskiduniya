@@ -1,0 +1,25 @@
+.links{
+    width: 200px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin: 10px;
+    border-radius: 12px;
+    background-color: #25CCF7;
+    transition: .5s;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color: var(--text);
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    height: 150px;
+}
+.links:hover{
+    transform: scale(1.02);
+}
