@@ -7,6 +7,13 @@ let my_links=[
         link:"https://internshipstudio.com/common-internship-test-june",
         date:"11/05/2024",
         logo:shorts
+    },
+    {
+        id:2,
+        name:"WORKS DELIGHT",
+        link:"talent@worksdelight.org",
+        date:"13/05/2024",
+        logo:shorts
     }
 ]
 export default my_links;

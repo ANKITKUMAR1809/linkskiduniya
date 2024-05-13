@@ -10,7 +10,7 @@ export const Home = () => {
       <img src={banner} alt="" className='banner' />
       <div className="linklist">
         {my_link.map((item, i) => {
-          return <Links link={item.link} logo={item.logo} name={item.name} date={item.date} />
+          return <Links key={item.id} link={item.link} logo={item.logo} name={item.name} date={item.date} />
         })}
       </div>
     </>
