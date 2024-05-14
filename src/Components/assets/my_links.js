@@ -14,6 +14,14 @@ let my_links=[
         link:"talent@worksdelight.org",
         date:"13/05/2024",
         logo:shorts
+    },
+    {
+        id:3,
+        name:"Ridecell",
+        link:"https://docs.google.com/forms/d/e/1FAIpQLScT2gdgW-LQMThkFGlhi6LI3lmJp127-TaSus1rWwpdI_g7sQ/viewform",
+        date:"14/05/2024",
+        logo:shorts
     }
+
 ]
 export default my_links;
