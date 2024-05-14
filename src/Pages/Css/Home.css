@@ -3,8 +3,8 @@
     margin: 20px auto;
     display: flex;
     /* height: 100vh; */
-    flex-direction: column;
-    flex-wrap: wrap-reverse;
+    flex-direction: column-reverse;
+    flex-wrap: wrap;
     gap: 20px;
     justify-content: space-around;
 
