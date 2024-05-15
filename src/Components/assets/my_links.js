@@ -21,6 +21,13 @@ let my_links=[
         link:"https://docs.google.com/forms/d/e/1FAIpQLScT2gdgW-LQMThkFGlhi6LI3lmJp127-TaSus1rWwpdI_g7sQ/viewform",
         date:"14/05/2024",
         logo:shorts
+    },
+    {
+        id:4,
+        name:"AICTE - GOVERNMENT Internship Provider",
+        link:"https://internship.aicte-india.org/",
+        date:"14/05/2024",
+        logo:shorts
     }
 
 ]
