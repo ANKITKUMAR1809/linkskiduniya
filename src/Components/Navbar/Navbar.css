@@ -3,7 +3,8 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: #FEA47F;
+    color: var(--text);
+    background: #000000;
     box-shadow: 0px 2px 8px black;
 }
 .logo{
@@ -21,5 +22,5 @@
 .navmenu-links{
     color: var(--text);
     text-decoration: none;
-    font-weight: 500;
+    font-weight: 600;
 }

@@ -4,8 +4,13 @@ export const About_Me = () => {
   return (
     <>
       <div className="aboutme">
-        <img src="" alt="" />
-        
+        <div className="aboutme-top">
+          <div className="img"></div>
+          <div className="aboutme-text"></div>
+        </div>
+        <div className="contact-links">
+          
+        </div>
       </div>
     </>
   )

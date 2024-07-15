@@ -1,8 +1,14 @@
 :root{
     --bg:white;
-    --text:#2C3A47;
+    --text:rgb(214, 214, 214);
     --link:#1B9CFC;
 }
 *{
     font-family: poppins;
+}
+body{
+    background: #000;
+}
+*{
+    box-sizing: border-box;
 }
